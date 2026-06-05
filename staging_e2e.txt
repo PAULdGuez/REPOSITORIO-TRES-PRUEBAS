@@ -1,3 +1,4 @@
 feat: scaffold login supabase [GOJ-1160] :: 14760
 feat: endpoint de reportes [GOJ-1161] :: 23841
 fix: validacion de formulario [GOJ-1162] :: 20537
+fix: refactor login supabase [GOJ-1160] :: 20725
