@@ -7,3 +7,4 @@ feat: scaffold login supabase [GOJ-1160] :: línea 29807
 feat: endpoint de reportes [GOJ-1161] :: línea 21417
 fix: validacion de formulario [GOJ-1162] :: línea 9445
 fix: refactor login supabase [GOJ-1160] :: línea 23620
+chore: limpieza general (sin issue) :: línea 12139
